@@ -1,0 +1,29 @@
+# Virtual Environments (covers both .venv and venv)
+.venv/
+venv/
+ENV/
+env/
+
+# IDE & Editor files
+.idea/
+.vscode/
+*.swp
+
+# Python cache & compiled bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Build & test caches / artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+_struct_ufunc*
+
+# Project generated outputs
+output/
+*.xlsx
+
+# macOS system files
+.DS_Store

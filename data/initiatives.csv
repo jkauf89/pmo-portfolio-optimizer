@@ -1,0 +1,9 @@
+id,name,sponsor,strategic_alignment,customer_impact,operational_efficiency,risk_reduction,cost_k_usd,engineering_person_weeks,technical_complexity,is_mandatory
+INIT-101,Zero Trust IAM Migration,Security,9,4,6,10,180,24,3.5,True
+INIT-102,Self-Serve Onboarding Flow,Product,8,9,7,2,85,14,2.0,False
+INIT-103,Data Pipeline Modernization,Platform,6,3,9,4,120,18,4.0,False
+INIT-104,AI Customer Support Copilot,Ops,7,8,8,3,95,12,3.0,False
+INIT-105,Automated SOX Audit Tool,Legal,8,2,8,9,60,8,1.5,True
+INIT-106,Micro-frontend Shell Refactor,Frontend,4,4,7,2,70,16,3.0,False
+INIT-107,Real-Time Fraud API,Risk,9,8,5,8,140,20,4.5,False
+INIT-108,Mobile 1-Click Payments,Mobile,8,9,6,3,75,10,2.5,False
