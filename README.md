@@ -121,7 +121,7 @@ python main.py --csv "/path/to/my_q4_intake.csv" --budget 450 --capacity 50
 
 **Running Automated Tests**
 ```bash
-pytest -v
+python -m pytest -v
 ```
 
 **Extending the Engine**
